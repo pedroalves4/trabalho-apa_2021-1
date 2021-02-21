@@ -1,0 +1,13 @@
+InstanciaPequena -> 450 vertices e 30 cliques - MIS = 30
+1->450 17827  
+2->450 17809   
+3->450 17794    
+InstanciaMedia -> 1150 vertices e 50 cliques - MIS = 50
+1->1150 80072
+2->1150 81068
+3->1150 80258
+4->1150 80035    
+InstanciaGrande -> 1534 vertices e 59 cliques - MIS = 59
+1->1534 126555
+2->1534 126082
+3->1534 125982   
